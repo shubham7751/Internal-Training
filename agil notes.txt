@@ -1,0 +1,58 @@
+Agile Model- (is a process define modle) latest module for software developing
+
+it is mixed of iterative and incremental model.
+iterative model-doing same process again and again
+incremental model-keep on adding new feachers(module)in existing module.
+----------
+how it work fast ?
+- as we develope module we delivere it to the costomer so costomer no need to wait for
+long time. and again new version is added to it with some features.
+and also if any changes we can easily update according to costomer at any stage.
+
+there will be good communication between costomer, developer and tester.
+------------
+dis advantages-less documentation (but more no. of meetings)
+
+
+
+
+----------------------------------
+
+scrum  (is a frame work through which we develope and test a software and release to the costomer)
+it will help us to design and develope software is form of agile process principles.
+
+scrum team :-
+1)product owner- (he is a man between developing all teams and the costomer)it define feature of the product and is always in contact with costomer.
+      he set's all features, and pririotised all functions
+      he can accept or reject he will check work flow is meeting to costomer requirment
+
+2)scrum master- (hunter) he mainly drive agil process and make every one to do given work
+                any miss communication or any blocker he will solve issues and make flow of agil 
+3)development team - develope software
+4)QA team - test software
+
+-----------------------------
+scrum terminology
+
+>user story - module in a software (product owner which define functionality in a form of user stories/ epics )
+>epic - is collection of multiple user stories
+>product backlock - is document has all the stories (user + epices) can be form of exel /list is call -
+........
+>1 sprint/iteration - is a period of time to complete user stories(it mean all design, development, and testing) time decide by product owner and team 
+>sprint planning meeting - decide what to delivere in sprint
+>sprint backlock - perticular story in one sprint is writen in sprint backlock (not all product backlock stories it content many stories there fore)
+                    for specific sprint
+
+>scrum meeting- every day 15 min meeting by scrum master every boday say what task complet and blockers
+>main 3 question - what you do yesterday , today and any blocker
+ >sprint retrospective meeting - only onse after completing of every single sprint cycle all team d,t,po.
+...............
+>story point - rough estimation of user stories , so base on product backlog all stories developer and tester will pick stroies to do work
+     eg: developer will say i require this much of time to do this work is call-
+          this is given by d and t 
+        given in fibonacci series form-0112358......
+      1 story point = 1hours/1 day(6 hrs)
+    there fore if d say 5 story points is equal to 5 hours
+
+>burn down charts- shows remaining work in sprint and maintain by scrum master also calculate story points
+

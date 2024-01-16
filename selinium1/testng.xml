@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+
+    <test name="para">
+        <parameter name="browser" value="edge"></parameter>
+        <parameter name="url" value="https://www.youtube.com/"></parameter>
+        <classes>
+            <class name="parameters.parameter1"></class>
+
+        </classes>
+    </test>
+</suite>
